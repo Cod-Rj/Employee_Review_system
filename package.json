@@ -1,0 +1,30 @@
+{
+  "name": "employeereviewsystem",
+  "version": "1.0.0",
+  "description": "It is an employee review system application created for coding ninjas skill test purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astik991/Employee-Review-System.git"
+  },
+  "author": "Astik Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astik991/Employee-Review-System/issues"
+  },
+  "homepage": "https://github.com/Astik991/Employee-Review-System#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^5.0.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^7.2.4",
+    "node": "^20.2.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
